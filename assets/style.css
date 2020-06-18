@@ -1,0 +1,29 @@
+/* 
+Fondo: #edf2f4
+Título: #e63946
+Hover: #8d99ae
+
+*/
+
+
+body{
+    margin: 0;
+  }
+.h1{
+    background-color: #e63946;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}  
+.contenedor{
+    background-color: #edf2f4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    }
+.fotos{
+    width:22%;
+    margin: 20px;
+    padding: 2px;
+}
